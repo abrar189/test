@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Courgette', cursive;
+}
+body{
+    background-image: url(https://www.cnet.com/a/img/yo0j9mvUs0WmG8QHtoZIRuV4IYc=/1200x675/2021/03/29/1c2386e1-53b8-4a19-803d-08abd7ffe77e/floom.jpg);
+}
+h1{
+text-align: center;
+font-size: xx-large;
+font-family: 'Courgette', cursive;
+background-color: rgb(38, 39, 41);
+color: whitesmoke;
+}
+#form{
+    float: left;
+    border: solid black;
+padding: 20px;
+
+}
+.container{
+margin-top: 100px;
+margin-left: 100px;
+}
+#table{
+    float: right;
+    border: 3px solid black;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  img{
+      height: 100px;
+      width: 100px;
+  }
